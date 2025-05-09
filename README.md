@@ -5,7 +5,7 @@
 # 1. Modelagem
 ## 1.1. Diagrama
 
-![Diagrama do aeropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/images/diagrama_aeropendulo.png)
+![Diagrama do aeropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/imagens/diagrama_aeropendulo.png)
 
 ## 1.2. Equacionamento
 $$
@@ -201,11 +201,11 @@ $$
 
 | Visão frontral                       | Visão lateral                        | Visão posterior                      |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![Visão frontal do aeropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/images/aeropendulo_visao_frontal.png) | ![Visão lateraal do aropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/images/aeropendulo_visao_lateral.png) | ![Visão posterior do aeropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/images/aeropendulo_visao_posterior.png) |
+| ![Visão frontal do aeropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/imagens/aeropendulo_visao_frontal.png) | ![Visão lateraal do aropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/imagens/aeropendulo_visao_lateral.png) | ![Visão posterior do aeropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/imagens/aeropendulo_visao_posterior.png) |
 
 ## 2.1. Massa do conjunto haste-motor-hélices
 
-![Massa do aeropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/images/massa_aeropendulo.png)
+![Massa do aeropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/imagens/massa_aeropendulo.png)
 
 ```
 M = 23g = 0,023kg
@@ -213,7 +213,7 @@ M = 23g = 0,023kg
 
 ## 2.1. Cálculo do centro de massa e tamanho da haste
 
-![Centro de massa do aeropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/images/centro_de_massa_aeropendulo.png)
+![Centro de massa do aeropêndulo](https://github.com/matheusbucater/aeropendulo/blob/main/imagens/centro_de_massa_aeropendulo.png)
 
 Para encontrar o centro de massa, o conjunto haste-motor-hélice foi equilibrado através de uma corda, encontrando o valor de $L_1$.
 
